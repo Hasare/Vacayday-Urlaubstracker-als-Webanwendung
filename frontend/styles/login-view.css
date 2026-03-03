@@ -1,0 +1,12 @@
+#login-view {
+    display: grid;
+    padding-top: 10%;
+    padding-left: 20%;
+}
+#loginTitle{
+    color: #003D8F;
+}
+:host {
+    display: block;
+    padding: var(--lumo-space-m) var(--lumo-space-l);
+}
